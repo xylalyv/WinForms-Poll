@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\bin\Debug\net6.0-windows\PollProject.exe
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\bin\Debug\net6.0-windows\PollProject.deps.json
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\bin\Debug\net6.0-windows\PollProject.runtimeconfig.json
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\bin\Debug\net6.0-windows\PollProject.dll
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\bin\Debug\net6.0-windows\PollProject.pdb
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.Form1.resources
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.dll
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\refint\PollProject.dll
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.pdb
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\PollProject.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\WinFormS PollSolution\PollProject\obj\Debug\net6.0-windows\ref\PollProject.dll
